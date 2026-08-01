@@ -3,3 +3,7 @@ numpy
 nibabel
 opencv-python
 matplotlib
+fastapi
+uvicorn
+python-multipart
+scipy
